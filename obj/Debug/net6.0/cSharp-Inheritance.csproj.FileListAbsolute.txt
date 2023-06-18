@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\bin\Debug\net6.0\cSharp-Inheritance.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\bin\Debug\net6.0\cSharp-Inheritance.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\bin\Debug\net6.0\cSharp-Inheritance.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\bin\Debug\net6.0\cSharp-Inheritance.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\bin\Debug\net6.0\cSharp-Inheritance.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\refint\cSharp-Inheritance.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\cSharp-Inheritance.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Inheritance\cSharp-Inheritance\obj\Debug\net6.0\ref\cSharp-Inheritance.dll
