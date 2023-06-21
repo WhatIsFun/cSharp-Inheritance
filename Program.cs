@@ -31,6 +31,11 @@
             //Task 3: Vehicle
             Car1 car = new Car1("A", 2005, "S", 4);
             car.VehicleData();
+
+            //Task 4: Employee
+            Manager manager = new Manager("Mohammed", "AR-3454", "IT", 768.9);
+            manager.EmployeeData();
+
         }
     }
 }
