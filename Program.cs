@@ -4,19 +4,32 @@
     {
         static void Main(string[] args)
         {
-            Example AnyName = new Example(2);
-            AnyName.getDoubleNumberOfWheels();
-            Console.WriteLine(Example.someNumber);
-            Example anyValue = new Example(3);
-            anyValue.getDoubleNumberOfWheels();
-            Console.WriteLine(Example.someNumber);
+            //Example AnyName = new Example(2);
+            //AnyName.getDoubleNumberOfWheels();
+            //Console.WriteLine(Example.someNumber);
+            //Example anyValue = new Example(3);
+            //anyValue.getDoubleNumberOfWheels();
+            //Console.WriteLine(Example.someNumber);
 
-            AnyName.getDoubleNumberOfWheels();
-            Console.WriteLine(Example.someNumber);
+            //AnyName.getDoubleNumberOfWheels();
+            //Console.WriteLine(Example.someNumber);
 
             //OuterClass.nestedClass nested = new OuterClass ();
             //Console.WriteLine();
-            Console.WriteLine("Hello, World!");
+
+            // Task 1:
+            Student std = new Student("Mohammed", 24, 32483, "Cyber");
+            std.PrintData();
+
+
+
+
+            //Task 2: Shape
+            Rectangle rec = new Rectangle("Yellow",6, 3, 4);
+            Console.WriteLine($"The color of rectangle is {rec.color} and the area is {rec.CalArea()}");
+
+            //Task 3: Vehicle
+
         }
     }
 }
