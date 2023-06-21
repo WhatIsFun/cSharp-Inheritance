@@ -17,7 +17,7 @@
             //OuterClass.nestedClass nested = new OuterClass ();
             //Console.WriteLine();
 
-            // Task 1:
+            // Task 1: Person
             Student std = new Student("Mohammed", 24, 32483, "Cyber");
             std.PrintData();
 
@@ -29,7 +29,8 @@
             Console.WriteLine($"The color of rectangle is {rec.color} and the area is {rec.CalArea()}");
 
             //Task 3: Vehicle
-
+            Car1 car = new Car1("A", 2005, "S", 4);
+            car.VehicleData();
         }
     }
 }
